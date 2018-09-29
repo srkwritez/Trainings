@@ -7,7 +7,7 @@ Create GitHub Account : https://github.com/
 Git Hub Repository Link : https://github.com/srkwritez/JavaTraining
 
 -----------------------------------------------------------
-Day 1
+Day 1 Topics
 
 	How to write a class
 	How to write a main Method
